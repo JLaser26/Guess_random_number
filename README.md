@@ -1,0 +1,1 @@
+use .exe to play
